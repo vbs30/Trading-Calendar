@@ -359,7 +359,7 @@ const ProfitLossCalendar = () => {
                 Import Data
                 <input
                   type="file"
-                  accept=".json"
+                  accept=".json,application/json"
                   onChange={handleImportData}
                   className="hidden"
                 />

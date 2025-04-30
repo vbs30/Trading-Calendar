@@ -2,8 +2,6 @@
 
 A React-based calendar application designed specifically for Indian stock market traders to track daily profit and loss entries with persistent data storage.
 
-![Trading Calendar Demo](https://github.com/yourusername/trading-profit-loss-calendar/raw/main/demo.png)
-
 ## Features
 
 - **Daily Profit/Loss Tracking**: Easily record your trading performance for each trading day
